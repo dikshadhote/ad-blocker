@@ -2,7 +2,7 @@
 "name" :"WebsiteBlocker",
  "version":"1.0",
  "description":"This app helps you to be productive by blocking websites",
- "permissions":["webRequest","webRequestblocking","<all_urls>"],
+ "permissions":["webRequest","webRequestBlocking","<all_urls>"],
  "background":{
      "scripts":["background.js"]
  },
