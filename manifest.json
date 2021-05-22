@@ -1,8 +1,8 @@
 {
-"name" :"Adblocker",
+"name" :"WebsiteBlocker",
  "version":"1.0",
- "description":"This app will block facebook",
- "permissions":["webRequest","webRequestlocking","<all_urls"],
+ "description":"This app helps you to be productive by blocking websites",
+ "permissions":["webRequest","webRequestblocking","<all_urls>"],
  "background":{
      "scripts":["background.js"]
  },
